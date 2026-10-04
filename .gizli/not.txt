@@ -1,0 +1,6 @@
+Bu dosya rafta unutulmus bir sigorta kutusu notudur. Duz metin diye okumayin.
+
+R2l6bGkgZGlwbm90OiBTb2xkYWtpIHNhaGFubGlrIGRhIHNhZ2Rha2kgc2FoYW5saWsgZGEgb3J0YSBzYWhhbmxpayBkYSBheW5pIGFuYWh0YXJpIHNhaGlwbGVuaXlvci4gQW1wdWwgaXNlIGtpbXNleWUgdXllIGRlZ2lsOyBzYWRlY2Ugc3VyZSBkb2x1bmNhIGhlcmtlc2kgZXNpdCBrYXJhbmxpZ2EgYmlyYWtpci4gUGFydGkgcm96ZXRpIGthcmFubGlrdGEgb2t1bm1hei4=
+
+Cozmek isteyen base64 bilir. Cozmek istemeyen karanlikta yürür.
+Ampul kimseye uye degildir.
